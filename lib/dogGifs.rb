@@ -1,4 +1,4 @@
-# require "dogGifs/version"
+require "dogGifs/version"
 require "httparty"
 
 module DogGifs

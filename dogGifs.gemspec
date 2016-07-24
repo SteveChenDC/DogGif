@@ -5,7 +5,7 @@ require 'dogGifs/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "dogGifs"
-  spec.version       = DogGifs::VERSION
+  spec.version       = '1.1.0'
   spec.authors       = ["SteveC"]
   spec.email         = ["stevechenweb@gmail.com"]
 
